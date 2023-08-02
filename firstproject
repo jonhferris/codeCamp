@@ -1,0 +1,61 @@
+First project
+<link rel="stylesheet" href="styles.css" />
+<h1 id="title"> Survey Form</h1>
+<p id="description">This is my Survey Form</p>
+
+
+<form id="survey-form"> 
+  <label id="name-label"> Name:</label>
+  <input id="name" type="text" required placeholder="Enter your full name">
+
+ <label id="email-label"> Email:</label>
+<input id="email" type="email" required placeholder="myfirstproject@gmail.com">
+<label id="number-label"> Number:</label>
+<input id="number" type="number" min="0" max="9" placeholder="123-456-7890"required>
+<label id="selector"> Which Option?</label>
+<select name="survey" id="dropdown">
+  <option value="option-one">Option 1</option>
+  <option value="option-two">Option 2</option>
+  </select>
+<label id="gender"> Select One</label>
+ <div>
+ <input type="radio" id="selector-one" name="one" value="one" checked />
+<input type="radio" id="selector-two" name="one" value="two" />
+</div>
+<label id="test"> Check One</label>
+<input id="checkbox1" type="checkbox" value="0">
+<input id="checkbox2" type="checkbox" value="1">
+<label id="test"> Type stuff</label>
+<textarea id="text-area" type="textarea"></textarea>
+<label id="test"> Click that button!</label>
+<button id="submit" type="submit">Click Me!</button>
+</form>
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+input[type=text] {
+  width: auto;
+}
+label {
+  display: block;
+  margin: 0.5rem 0;
+  padding: 2px;
+}
+select {
+  display:block;
+  margin: 0.5rem 0;
+  padding: 2px;
+}
+form {
+  font-family: Tahoma;
+  font-size: 1rem;
+  font-weight: bold;
+  
+}
