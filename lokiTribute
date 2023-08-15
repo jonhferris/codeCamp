@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+   <link rel="stylesheet" href="styles.css" />
+  <main id="main">
+     
+    <div class="title-image" id="img-div">
+  <p class="head" id="title">Loki -"He's a Dog"</p>
+   <img src="https://i.imgur.com/OGlL4ar.jpg" alt="Girl in a jacket" width="500" height="300" class="image" id="image"><figcaption id="img-caption"><i class="img-caption" target="_blank">Mr. Loki the dog, pictured here waiting to receive treats and possibly pets depending on his mood.</i></figcaption></img>
+
+
+    </div>
+    <div class="main-text" id="tribute-info">
+      <p>Considered by many to be the best boy.</p>
+      </div>
+      <p>Knows many tricks such as: speak, sit, paw, tell me a secret, ninja jumping off walls, mount, spin, etc.  </p>
+
+<p> Sometimes can be a menace to society. </p>
+<p> Don't expect to get sleep with this goofball in the same room as you, he will lick your face every hour to ensure he receives pets.
+
+  <p>Loki is extremely popular with the ladies</p>
+
+
+  <p> If you have time you should read more about loki at<a   href="www.lokibestdog.com" class="link"     id="tribute-link"> lokibestdog.com</a>
+  
+    </main>
+
+.head {
+  text-align: center;
+  font-size: 40px;
+  font-family: helvetica;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 50px;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+.title-picture {
+  box-sizing: border-box;
+  background: #d9dbda;
+  
+}
