@@ -5,7 +5,7 @@
      
     <div class="title-image" id="img-div">
   <p class="head" id="title">Loki -"He's a Dog"</p>
-   <img src="https://i.imgur.com/OGlL4ar.jpg" alt="Girl in a jacket" width="500" height="300" class="image" id="image"><figcaption id="img-caption"><i class="img-caption" target="_blank">Mr. Loki the dog, pictured here waiting to receive treats and possibly pets depending on his mood.</i></figcaption></img>
+   <img src="https://i.imgur.com/OGlL4ar.jpg" alt="Loki being silly" width="500" height="300" class="image" id="image"><figcaption id="img-caption"><i class="img-caption" target="_blank">Mr. Loki the dog, pictured here waiting to receive treats and possibly pets depending on his mood.</i></figcaption></img>
 
 
     </div>
